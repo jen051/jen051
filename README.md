@@ -10,3 +10,17 @@ I'm Jennifer, a computer science student at <a href="https://www.gatech.edu/" ta
 - Other Interests: Quantum Computing, Quantitative Finance, Human Computer Interactions, Cybersecurity
 
 [LinkedIn](https://www.linkedin.com/in/jenjiang5/) | [Courses Taken](https://github.com/jen051/jen051/blob/main/courses.md) | [Personal Website](https://jen051.github.io/)
+---
+
+<div align="center">
+<a>
+<img src="https://raw.githubusercontent.com/jen051/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/jen051/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
+<a>
+<img src="https://raw.githubusercontent.com/jen051/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/jen051/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
+</div>
