@@ -7,11 +7,6 @@ I'm Jennifer, a computer science student at <a href="https://www.gatech.edu/" ta
 - Bachelors of Science in Computer Science candidate (Dec 2026)
 - Masters of Science in Computer Science candidate (Dec 2027)
 - Threads (Formal Concentrations): Intelligence & Information Internetworks
-- Other Interests: 
+- Other Interests: Quantum Computing, Quantitative Finance, Human Computer Interactions, Cybersecurity
 
-[LinkedIn](https://www.linkedin.com/in/jenjiang5/)
-## Positions
-- Head TA of CS 2050 Discrete Mathematics (approx 700\~900 students / semester)
-
-## My Work
-
+[LinkedIn](https://www.linkedin.com/in/jenjiang5/) | Courses Taken | [Personal Website](https://jen051.github.io/)
