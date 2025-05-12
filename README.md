@@ -9,4 +9,4 @@ I'm Jennifer, a computer science student at <a href="https://www.gatech.edu/" ta
 - Threads (Formal Concentrations): Intelligence & Information Internetworks
 - Other Interests: Quantum Computing, Quantitative Finance, Human Computer Interactions, Cybersecurity
 
-[LinkedIn](https://www.linkedin.com/in/jenjiang5/) | Courses Taken | [Personal Website](https://jen051.github.io/)
+[LinkedIn](https://www.linkedin.com/in/jenjiang5/) | [Courses Taken](https://github.com/jen051/jen051/blob/main/courses.md) | [Personal Website](https://jen051.github.io/)
