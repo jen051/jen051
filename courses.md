@@ -6,7 +6,6 @@
 - CS4400 Intro to Database Systems
 - CX3803 Junior Design Capstone
 - CS3803 Technical Communication
-- MATH3215 Probability & Statistics
 
 ### Complete
 - CS1331 Object Oriented Programming
